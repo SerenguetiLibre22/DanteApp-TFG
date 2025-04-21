@@ -38,5 +38,31 @@ Automatizar y simplificar la gestión de reservas, ofreciendo una plataforma efi
 
 ---
 
-## 🗂️ Estructura del Repositorio
+## 🚀 Cómo Ejecutar
+
+### App Android:
+1. Clonar este repositorio
+2. Abrir `app-android/` con Android Studio
+3. Conectar Firebase con tu cuenta (añadir `google-services.json`)
+4. Ejecutar en un emulador o dispositivo real
+
+### Backend:
+1. Abrir `backend-springboot/` en IntelliJ IDEA
+2. Configurar las credenciales de Firebase Admin SDK
+3. Ejecutar `DanteAppApplication.java`
+
+---
+
+## 👤 Autor
+
+Proyecto de TFG – Desarrollo de Aplicaciones Multiplataforma  
+Alumno: [Adrian Moré Danzi]  
+Tutor: [Alberto Castedo Espeso]
+Centro: ILERNA Online
+
+---
+
+## 📝 Licencia
+
+Este proyecto es de uso académico. No está destinado para distribución comercial.
 
